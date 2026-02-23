@@ -1,0 +1,16 @@
+# Docker y Base de Datos
+pgdata/
+.env
+
+# Python (Backend)
+backend/__pycache__/
+backend/venv/
+*.pyc
+
+# Node (Frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Otros
+.DS_Store

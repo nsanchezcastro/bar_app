@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sqlalchemy[mypy]
+psycopg2-binary
+pydantic-settings
